@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Все тесты">
+    <test name="Тесты корзины">
+        <classes>
+            <class name="hooks.Hooks"></class>
+            <class name="test.HomePageTest"></class>
+            <class name="test.BasketPageTest"></class>
+            <class name="test.ListingPageTest"></class>
+            <class name="test.ComparisonPageTest"></class>
+            <class name="test.FavoritePageTest"></class>
+        </classes>
+    </test>
+</suite>
