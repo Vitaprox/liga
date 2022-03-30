@@ -1,0 +1,1 @@
+{"uuid":"e297d345-6223-4a5d-8eef-c1357f8386a0","name":"test.FavoritePageTest.close","children":["f2716bb5-9946-45e9-85d6-c6943a76a2db"],"description":"","befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648630301582,"stop":1648630302367}],"start":1648630301582,"stop":1648630302367}
