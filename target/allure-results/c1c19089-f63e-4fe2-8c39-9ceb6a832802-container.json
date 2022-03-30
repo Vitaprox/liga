@@ -1,0 +1,1 @@
+{"uuid":"c1c19089-f63e-4fe2-8c39-9ceb6a832802","name":"Все тесты","children":["3eaac9a1-4e65-4ac2-96bf-9885129dfdda"],"befores":[{"name":"configOption","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648633099823,"stop":1648633099836}],"afters":[],"start":1648633099800,"stop":1648633127569}
