@@ -1,1 +1,0 @@
-{"uuid":"ce9083dc-df6f-4052-b801-376b23b3fba2","name":"test.BasketPageTest.close","children":["bffb7055-ed6a-4f76-bb96-8a2fff67ee22"],"description":"","befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648646418861,"stop":1648646421537}],"start":1648646418861,"stop":1648646421537}
